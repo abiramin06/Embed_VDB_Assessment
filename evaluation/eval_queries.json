@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "query": "12.13 Micro insurance In an effort to ensure a balanced and speedy",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 24
+    },
+    {
+        "id": 2,
+        "query": "released/disbursed to IT department/Banks/genuine shareholders etc. Out of a total of 22.02",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 19
+    },
+    {
+        "id": 3,
+        "query": "392 - - 4 7. Central Bank 15562 77 62 323 23",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 45
+    },
+    {
+        "id": 4,
+        "query": "(ADWDRS), 2008 was launched in May, 2008 to address the problems and",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 56
+    },
+    {
+        "id": 5,
+        "query": "• The proposal of the Ministry of Environment, Forest and Climate Change",
+        "expected_source": "AnnualReport_15-16-Eng.pdf",
+        "expected_page": 39
+    },
+    {
+        "id": 6,
+        "query": "for School Education and by UGC and different Central and State Universities",
+        "expected_source": "AnnualReport_15-16-Eng.pdf",
+        "expected_page": 23
+    },
+    {
+        "id": 7,
+        "query": "All these benefits are paid for a nominal premium of Rs 200.00",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 27
+    },
+    {
+        "id": 8,
+        "query": "-- - 8 - - - - - - - - -",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 46
+    },
+    {
+        "id": 9,
+        "query": "[16% growth in both loans & advances and in the overall customer",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 14
+    },
+    {
+        "id": 10,
+        "query": "Director General of the Institute, Dr. Yogesh Suri was invited as a",
+        "expected_source": "AnnualReport_15-16-Eng.pdf",
+        "expected_page": 46
+    },
+    {
+        "id": 11,
+        "query": "Subsidiary Companies and 4 Associate Companies in 22 countries. “A-”(excellent) rating from",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 29
+    },
+    {
+        "id": 12,
+        "query": "of Reports of LIC in Parliament; Opening/ winding up of branches of",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 6
+    },
+    {
+        "id": 13,
+        "query": "XIII Five Year Plan. The NITs are expected to be at par",
+        "expected_source": "AnnualReport_15-16-Eng.pdf",
+        "expected_page": 23
+    },
+    {
+        "id": 14,
+        "query": "Malhotra SO (AC) Ravinder Kumar SO(RRB) C.D. Harihara SO (FI) Madan Mohan",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 60
+    },
+    {
+        "id": 15,
+        "query": "in each bank to ensure smooth flow of credit to minority communities",
+        "expected_source": "AnnualReport2013-14-DFS.pdf",
+        "expected_page": 18
+    }
+]

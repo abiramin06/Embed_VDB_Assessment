@@ -1,0 +1,40 @@
+DOCUMENT: JSON DATA INTERCHANGE FORMAT
+Document type: TXT
+Source: Internet Engineering Task Force (IETF), RFC 8259
+Official source: https://www.rfc-editor.org/rfc/rfc8259
+Published: December 2017
+Author/editor: Tim Bray
+
+OVERVIEW
+JavaScript Object Notation (JSON) is a lightweight, text-based, language-independent format used to represent and exchange structured data. It is commonly used by web services and applications because it is readable by people and straightforward for software to parse and generate.
+
+JSON DATA TYPES
+JSON supports strings, numbers, booleans, null, objects, and arrays. An object is a collection of name/value pairs enclosed in curly braces. An array is an ordered sequence of values enclosed in square brackets.
+
+SYNTAX
+A JSON text contains a serialized value. Objects use a colon between each property name and its value, and commas between members. Arrays use commas between values. Strings are enclosed in quotation marks. The literal values are written in lowercase: true, false, and null.
+
+STRINGS AND ENCODING
+JSON strings contain Unicode characters. Quotation marks, reverse solidus characters, and control characters must be escaped where required. UTF-8 is the recommended encoding for interoperable exchange.
+
+NUMBERS
+JSON numbers may contain an optional minus sign, integer part, fraction, and exponent. Implementations should take care when exchanging numbers that exceed the precision or range supported by receiving systems.
+
+PARSING AND GENERATION
+A JSON parser reads JSON text and transforms it into an application data structure. A JSON generator produces JSON text and must follow the JSON grammar. Applications should use a standards-compliant parser rather than evaluating JSON text as executable code.
+
+SECURITY CONSIDERATIONS
+JSON is a data format, but unsafe parsing practices can introduce security risks. In particular, applications should not use eval-like execution to parse untrusted JSON. A dedicated JSON parser should be used.
+
+COMMON USES
+JSON is widely used for:
+- Exchanging data between web clients and servers.
+- Representing configuration settings.
+- Storing structured application data.
+- Transferring records between systems written in different programming languages.
+
+SOURCE AND ATTRIBUTION
+This text is a concise study summary based on the public IETF standard RFC 8259. It is not the complete RFC text. Refer to the official source for the full specification, examples, grammar, references, and errata.
+
+Official RFC page: https://www.rfc-editor.org/rfc/rfc8259
+RFC information page: https://www.rfc-editor.org/info/rfc8259

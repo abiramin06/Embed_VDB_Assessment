@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+pycache/
+.pytest_cache/
+.coverage
+*.pyc
+data/T3/qdrant_db/

@@ -1,0 +1,52 @@
+[
+    {
+        "query": "When was NITI Aayog founded?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 10
+    },
+    {
+        "query": "Who serves as the chairman of NITI Aayog?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 10
+    },
+    {
+        "query": "What are the two main hubs of NITI Aayog?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 11
+    },
+    {
+        "query": "What is the responsibility of Team India Hub?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 11
+    },
+    {
+        "query": "What is the role of Knowledge and Innovation Hub?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 11
+    },
+    {
+        "query": "How many consultants were engaged by NITI Aayog?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 12
+    },
+    {
+        "query": "When was the Development Monitoring and Evaluation Office constituted?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 13
+    },
+    {
+        "query": "Who is the CEO of NITI Aayog according to the organisation structure?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 8
+    },
+    {
+        "query": "Which sectors are included in NITI Aayog's objectives and achievements?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 6
+    },
+    {
+        "query": "Who are the advisers listed in NITI Aayog's organisation structure?",
+        "expected_source": "Annual-Report-English.pdf",
+        "expected_page": 9
+    }
+]
